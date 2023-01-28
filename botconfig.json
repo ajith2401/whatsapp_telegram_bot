@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "test-bot-ajith-mlnx",
+  "private_key_id": "12855d87c72c5b6b524675a2b517e30e43982ee1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCunxcGbf087Vfx\nm2z7s5x8XahQ625v0JrYRcX2+7/8MmsBEUJ+LSCdiA0hgvE+hsecKUFlwyzlatuU\nTPkH/hpUpBem4i1gaFvEV/LHfj8x3qES/SC/lXbwIrtHpNvIf22BJAhrPo6uCBrI\n09ySCJiek86qOjD2ngSxsSCs5unuYvPNAJvebINMebEG9rK1x14uajTX3rNkqrNC\nNAFxYW0RUUM+cN/8dfAB+u6T8jw5vlJD0vJS0kyCFFl3nnYwc2hoBzTHnPs5NqE/\nEhOnSgPqXCaLvUdxIYaGTuQbbNJS3EGEmFcafwYSccZE7IAF+iURL8FpvCBXXw1q\nAf4ZO6IvAgMBAAECggEABK0vxYmJjIbCJ922UuLMHsBZumXIz7A/AbvZW/0Ydr7q\nvPn9OEuSdkQejBaGm4k14K39n1RJv3mAddfhVjSYyac9ADEbetAVCFhTicJ1vllj\n3ExfPOxxZZZWWb6dBpWKsnK80hLPgGcF+ygTL2I0AZxKkxqYT17co8aGebl8gvuB\nFgxGXx07t441ZC7EzziC3STKL2W/ydK3tAeQ4pNgb2VpeCid2Kvp71FEzyWknMX0\nXKPD2zjZ7H1mQLqe6jh845UyoRCyLvzUqA0+z6G0Go7+JKIYL1EdzHQeg5uVVYqb\nxYJbRXXZ+GLxhVTQyNKKHJ1E7Dd/gmpmkt/AJ70ajQKBgQDhrblAPWjO2yOOJMmO\n0ti6Itoj+YloxbZse6A9und4y4b1IzoXL5Ub8OEMUFllYoDexmEz013a+6WmHHfa\nCGx6XsANgKIIvtsABQJBacUx3yPxANddw8Gkd9on3qm9m+Xueh6+/EPfj0HIgdhj\n6sHo66G0vP8ymFgXchRuiYKgFQKBgQDGFT3Q5Q/IWZX2nkoWYgUtPc7lVEZ3akkV\nCr8LK7N2JvUAVzO1Fl9WdM++QZGRc4esRkj1JmKYKtwQpy5TeeFxEob5mUatYzli\noZoUxPIL+IJa3tFYzqHu3KGO3no2sB2B/xzQep7eFE75FnCt6SFHUnhI6MvmLko1\nmGI6trBGMwKBgQCp6uNQOuxu0xAyNgCMSLRlcVhNPdT3zeVMSMidsYfCq3sxlxRl\n4K2kG/lWDClC7KebFEKbgsln15EhQM38m9sRR8XSZMebThgWK69HERwoMJofG0MM\nlhd2fccDveKPoJG+vLPpmIaCDJq7HQiQMnFNrhxSuPpsXcf13y8DCwYPAQKBgQC8\nl6rEQeLV8R2Lscd+KhMdsPRUefmhZmtwgkvEWfZCrvKjQWM0rblVul+0l/79ig6J\nol2CMuq6UEw3+sRrq+ZN3sLtz9Zv7MHNO2lVDvIZHaEW3YBaWlno7t1PBlk7ylA9\n3ePURnsNnC5Yj9n2arlJi6aEXEkNvdLf1lbn6dpI6wKBgHcHm5CaquzjaiWbzCbw\n/1/YYLfBps/4UNrfhWKI2erv7KvEXwERTPJ/fu/x+ITBnrWzohtLEDKmpU3/eLS/\ncR0e9i75ouEXfxwgDVr+WgXHmKzDmIX5hF50CnIua/blonSnrutWPIiBLyQ0jYvw\ncrbs+mRso8EllCiWDwHfmXnI\n-----END PRIVATE KEY-----\n",
+  "client_email": "ajith-kural-bot@test-bot-ajith-mlnx.iam.gserviceaccount.com",
+  "client_id": "104980843606626196353",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ajith-kural-bot%40test-bot-ajith-mlnx.iam.gserviceaccount.com"
+}
